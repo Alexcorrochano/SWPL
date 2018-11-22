@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html> 
+  <head>
+	<meta charset="UTF-8"/>
+	<style>
+		.key	{background-color:lightgrey;}
+	</style>
+	<title>User manual for __LOCATION</title>
+  </head>
+  <body>
+	<h1>Bluedot __LOCATION</h1>
+	<h2>Selecting a station</h2>

@@ -1,0 +1,5 @@
+
+		<h3>tuning automático <span class="key">&uarr;</span> / <span class="key">&darr;</span></h3>
+			<p>Presiona <span class="key">&uarr;</span> / <span class="key">&darr;</span>;
+				la radio del vehículo buscará automáticamente la siguiente estación</p>
+			

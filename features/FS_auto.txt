@@ -1,0 +1,3 @@
+<p>If you hold <span class="key">&uarr;</span> / <span class="key">&darr;</span>,
+				seek tuning will speed up in upwards or downwards direction.
+			</p>

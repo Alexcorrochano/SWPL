@@ -1,0 +1,2 @@
+<p>A numeric keypad is also provided, so it can be easily typed the frequency 
+				that is being looked forward </p>

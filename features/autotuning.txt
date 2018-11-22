@@ -1,0 +1,5 @@
+
+		<h3>Automatic tuning <span class="key">&uarr;</span> / <span class="key">&darr;</span></h3>
+			<p>Press <span class="key">&uarr;</span> / <span class="key">&darr;</span>;
+				the car radio will automatically search for the next station</p>
+			

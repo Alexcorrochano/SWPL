@@ -1,0 +1,5 @@
+<h3>Manual tuning with <span class="key">&lt;&lt;</span> or <span class="key">&gt;&gt;</span></h3>
+			<p>Press <span class="key">&lt;&lt;</span> or <span class="key">&gt;&gt;</span>,
+				the frequency will change in short intervals downwards or upwards.
+			</p>
+			

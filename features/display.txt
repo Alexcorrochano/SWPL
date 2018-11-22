@@ -1,0 +1,1 @@
+<p>The display will indicate the station name or, if no data is received, the frequency of the station currently playing.</p>

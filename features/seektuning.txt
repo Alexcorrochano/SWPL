@@ -1,0 +1,19 @@
+<h3>Seek tuning</h3>
+			<table>
+				<tr>
+					<td><span class="key">&uarr;</span></td>
+					<td>Up</td>
+				</tr>
+				<tr>
+					<td><span class="key">&darr;</span></td>
+					<td>Down</td>
+				</tr>
+				<tr>
+					<td><span class="key">&lt;&lt;</span></td>
+					<td>Down in short intervals</td>
+				</tr>
+				<tr>
+					<td><span class="key">&gt;&gt;</span></td>
+					<td>Up in short intervals</td>
+				</tr>
+			</table>

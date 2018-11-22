@@ -1,0 +1,6 @@
+<p>
+				If you hold <span class="key">&lt;&lt;</span> or <span class="key">&gt;&gt;</span> down,
+				the frequency scan will accelerate.
+			</p>
+  </body>
+</html>
